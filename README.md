@@ -57,7 +57,7 @@ To create a new issue, please use the blank issue template (available when you c
 
 ### Testing
 
-- Provide instructions.
+- Provide instructions..
 
 
 
